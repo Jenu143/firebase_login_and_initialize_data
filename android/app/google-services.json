@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578222894401",
+    "project_id": "login-and-initial-data",
+    "storage_bucket": "login-and-initial-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578222894401:android:550f6a302fc35f56d085c0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login_and_initialize_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578222894401-m39nlhl0bm3kcem2roicu9qmacful9cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUqDKhiX2d8R20cB4kSwGSdsWnPdaDcNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578222894401-m39nlhl0bm3kcem2roicu9qmacful9cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
